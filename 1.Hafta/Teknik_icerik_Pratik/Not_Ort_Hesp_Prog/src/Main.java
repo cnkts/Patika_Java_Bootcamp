@@ -4,6 +4,7 @@ import java.util.Scanner;
 // then press Enter. You can now see whitespace characters in your code.
 public class Main {
     public static void main(String[] args) {
+        //Değişkenler Tanımlandı
         int Matematik, Fizik, Kimya, Turkce, Tarih, Muzik,GecmeNotu;
 
         //Kullanıcıdan veri alabilmek için input nesnesi oluşturuldu
@@ -37,5 +38,4 @@ public class Main {
 
         //Sınıf Geçme Durumu Ekrana Yazdırıldı
         System.out.println(Ortalama >=60 ? "Tebrikler Sınıfı Geçtiniz" : "Malesef Sınıfı Geçemediniz");
-    }
-}
+}}

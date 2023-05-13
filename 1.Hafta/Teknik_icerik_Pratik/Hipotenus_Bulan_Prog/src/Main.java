@@ -1,6 +1,4 @@
-import java.awt.event.ComponentEvent;
 import java.util.Scanner;
-
 public class Main {
     public static void main(String[] args) {
         //Değişkenleri Tanımlanıyor
@@ -21,9 +19,5 @@ public class Main {
         //Üçgenin Çevresi Hesaplanıyor
         Cevre=A_Kenari+B_Kenari+C_Kenari.intValue();
         System.out.println("Üçgenin Çevresi : "+ Cevre);
-
-
-
-
     }
 }
