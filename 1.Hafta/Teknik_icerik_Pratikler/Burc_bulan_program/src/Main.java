@@ -40,7 +40,7 @@ public class Main {
         else if (month == 12 && Day<=21) System.out.println("Burcunuz Yay");
 
         if(month == 12 && Day>=22)System.out.println("Burcunuz Oğlak");
-        else if (month == 01 && Day<=21) System.out.println("Burcunuz Oğlak");
+        else if (month == 1 && Day<=21) System.out.println("Burcunuz Oğlak");
 
         if(month == 1 && Day>=22)System.out.println("Burcunuz Kova");
         else if (month == 2 && Day<=19) System.out.println("Burcunuz Kova");
@@ -48,7 +48,6 @@ public class Main {
         if(month == 2 && Day>=20)System.out.println("Burcunuz Balık");
         else if (month == 3 && Day<=20) System.out.println("Burcunuz Balık");
 
-        
     }
 }
 
