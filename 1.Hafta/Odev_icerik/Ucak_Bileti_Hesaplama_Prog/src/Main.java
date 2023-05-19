@@ -11,13 +11,12 @@ public class Main {
         //Kullanıcıdan bilgiler alınıyor
         System.out.print("Mesafe Bilgisi Girin (km) : ");
         distance=input.nextDouble();
-
         System.out.print("Kaç yaşındasınız : ");
         age=input.nextShort();
-
         System.out.println("Seyehat Türünüzü Seçin\n1: Tek yön bilet\n2: Gidiş-dönüş bilet ");
         ftype=input.nextShort();
-        // yaş,mesafe ve seyahat türü kontrolü yapılıyor.Eğer şartlar sağlanıyorsa ücret hesaplanıyor
+
+        // Yaş,mesafe ve seyahat türü kontrolü yapılıyor.Eğer şartlar sağlanıyorsa ücret hesaplanıyor
         if (distance > 0 && age > 0 && (ftype == 1 || ftype == 2)) {
             price = 0.10 * distance;
             if (age < 12) {
@@ -31,7 +30,7 @@ public class Main {
                 price *= 0.8;
                 price *= 2;
             }
-            System.out.println("Total Price: " + price + " TL");
+            System.out.println("Toplam Ücret : " + price + " TL");
         } else {
             System.out.println("Wrong Data!");
         }
