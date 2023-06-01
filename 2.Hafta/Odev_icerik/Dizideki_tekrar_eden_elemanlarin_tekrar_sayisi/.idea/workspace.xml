@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="18baa97d-81f5-4cc8-a493-5cbea8035b51" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../Dizideki_tekrar_eden_elemanlarin_tekrar_sayisi-frekansi/.idea/.name" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/../Dizideki_tekrar_eden_elemanlarin_tekrar_sayisi-frekansi/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/../Dizideki_tekrar_eden_elemanlarin_tekrar_sayisi-frekansi/.idea/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Dizideki_tekrar_eden_elemanlarin_tekrar_sayisi-frekansi/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Dizideki_tekrar_eden_elemanlarin_tekrar_sayisi-frekansi/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Dizideki_tekrar_eden_elemanlarin_tekrar_sayisi-frekansi/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dizideki_tekrar_eden_elemanlarin_tekrar_sayisi.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../Dizideki_tekrar_eden_elemanlarin_tekrar_sayisi-frekansi/Dizideki_tekrar_eden_elemanlarin_tekrar_sayisi.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Readme.md" beforeDir="false" afterPath="$PROJECT_DIR$/../Dizideki_tekrar_eden_elemanlarin_tekrar_sayisi-frekansi/Readme.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Dizideki_tekrar_eden_elemanlarin_tekrar_sayisi-frekansi/src/Main.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../.." />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2QSLzZ2jpqVeJ1mVSQexlHLZVxz" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/barracuda/Desktop/Patika_Java_Bootcamp/2.Hafta/Odev_icerik/Dizideki_tekrar_eden_elemanlarin_tekrar_sayisi/src/Main.java&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;onboarding.tips.debug.path&quot;: &quot;C:/Users/barracuda/Desktop/Patika_Java_Bootcamp/2.Hafta/Odev_icerik/Dizideki_tekrar_eden_elemanlarin_tekrar_sayisi/src/Main.java&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RunManager">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <module name="Dizideki_tekrar_eden_elemanlarin_tekrar_sayisi" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="18baa97d-81f5-4cc8-a493-5cbea8035b51" name="Changes" comment="" />
+      <created>1685342300428</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1685342300428</updated>
+      <workItem from="1685342301415" duration="7053000" />
+      <workItem from="1685356602348" duration="8797000" />
+      <workItem from="1685385755489" duration="2343000" />
+      <workItem from="1685391550049" duration="292000" />
+      <workItem from="1685422025435" duration="26188000" />
+      <workItem from="1685466209794" duration="4060000" />
+      <workItem from="1685507375754" duration="20052000" />
+      <workItem from="1685538115988" duration="122000" />
+      <workItem from="1685568383025" duration="34000" />
+      <workItem from="1685635181527" duration="675000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
