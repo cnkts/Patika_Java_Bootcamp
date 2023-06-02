@@ -4,17 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="18baa97d-81f5-4cc8-a493-5cbea8035b51" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/../Dizideki_tekrar_eden_elemanlarin_tekrar_sayisi-frekansi/.idea/.name" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/../Dizideki_tekrar_eden_elemanlarin_tekrar_sayisi-frekansi/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/../Dizideki_tekrar_eden_elemanlarin_tekrar_sayisi-frekansi/.idea/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Dizideki_tekrar_eden_elemanlarin_tekrar_sayisi-frekansi/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Dizideki_tekrar_eden_elemanlarin_tekrar_sayisi-frekansi/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Dizideki_tekrar_eden_elemanlarin_tekrar_sayisi-frekansi/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Dizideki_tekrar_eden_elemanlarin_tekrar_sayisi.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../Dizideki_tekrar_eden_elemanlarin_tekrar_sayisi-frekansi/Dizideki_tekrar_eden_elemanlarin_tekrar_sayisi.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Readme.md" beforeDir="false" afterPath="$PROJECT_DIR$/../Dizideki_tekrar_eden_elemanlarin_tekrar_sayisi-frekansi/Readme.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Dizideki_tekrar_eden_elemanlarin_tekrar_sayisi-frekansi/src/Main.java" afterDir="false" />
-    </list>
+    <list default="true" id="18baa97d-81f5-4cc8-a493-5cbea8035b51" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -77,6 +67,7 @@
       <workItem from="1685538115988" duration="122000" />
       <workItem from="1685568383025" duration="34000" />
       <workItem from="1685635181527" duration="675000" />
+      <workItem from="1685729505884" duration="34000" />
     </task>
     <servers />
   </component>
