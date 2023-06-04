@@ -16,7 +16,7 @@ Bu sistemi tasvir eden Class(Sınıf) diyagramını çiziniz.
 * JDK (version 17 is recommended)
 
 ### To run:
-Open the main.java file with your ide and run 
+Open the "flight management system.jpg" file. 
 
 ## Author
 
