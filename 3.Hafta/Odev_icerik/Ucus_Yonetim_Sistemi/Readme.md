@@ -1,5 +1,4 @@
-#  Flight Management System Class Diagram
-
+#  Flight Management Class Diagram
 Uçuşların ve pilotların yönetimi için bir sistem tasarlayın.
 
 Hava yolu şirketleri uçuşları gerçekleştirir. Her hava yolunun bir kimliği vardır.
@@ -12,11 +11,7 @@ Hava yolu şirketlerinin pilotları vardır ve her pilotun bir deneyim seviyesi 
 Bir uçak tipi, belirli sayıda pilota ihtiyaç duyabilir.
 Bu sistemi tasvir eden Class(Sınıf) diyagramını çiziniz.
 
-### Requirements:
-* JDK (version 17 is recommended)
-
-### To run:
-Open the "flight management system.jpg" file. 
+<img src="flight management system.jpg">
 
 ## Author
 
@@ -26,17 +21,10 @@ Open the "flight management system.jpg" file.
 - GitHub: [Can A.](https://github.com/cnkts)
 - Twitter: [@cn_coderr](https://twitter.com/cn_coderr)
 
-
-## 🤝 Contributing
-
-Contributions, issues, and feature requests are welcome!
-
-Feel free to reach me the links above
-
 ## Show your support
 
 Give a ⭐️ if you like this project!
 
 ## Acknowledgments
 
-- This repo is created for  www.patika.dev and www.kodluyoruz.org 6 Months Full Stack Development Practicum
+- This repo is created for www.patika.dev and www.kodluyoruz.org 6 Months Full Stack Development Practicum
