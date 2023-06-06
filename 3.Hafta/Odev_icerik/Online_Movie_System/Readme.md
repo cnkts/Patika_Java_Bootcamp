@@ -10,12 +10,6 @@
 
 <img src="OnlineFilm SystemUML Diagram.jpg">
 
-### Requirements:
-* JDK (version 17 is recommended)
-
-### To run:
-Open the main.java file with your ide and run 
-
 ## Author
 
 👤 **Can A.**
@@ -23,13 +17,6 @@ Open the main.java file with your ide and run
 - LinkedIn: [Can A.](https://www.linkedin.com/in/can-a-2929a0250/)
 - GitHub: [Can A.](https://github.com/cnkts)
 - Twitter: [@cn_coderr](https://twitter.com/cn_coderr)
-
-
-## 🤝 Contributing
-
-Contributions, issues, and feature requests are welcome!
-
-Feel free to reach me the links above
 
 ## Show your support
 
