@@ -1,0 +1,25 @@
+.App_container{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+}
+
+.cards {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.cards > div {
+  margin: 0 1.8em;
+}
+.countries{
+  margin: 30px;
+  padding-right: 24px;
+  width: 30%;
+  min-width: 16px;
+}
+.barChart{
+  width: 80%;
+  margin-bottom: 3em;
+}
